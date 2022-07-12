@@ -1,0 +1,23 @@
+html, body {
+    margin: 0px;
+    background-color: rgb(6, 111, 6);
+    color: white;
+    }
+    
+    .titulo{
+        text-align:center;
+        background-color: rgb(4, 46, 46);
+        color:white ;
+        padding: 20px;
+        font-size: 25px;
+    }
+    .cartas{
+        position: relative;
+        width: 150px;
+        left: 100px;
+        margin-left: -75px;
+    }
+    
+    #computadora-cartasm , #jugador-cartas{
+      height: 240px;  
+    }
